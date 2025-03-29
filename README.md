@@ -1,5 +1,5 @@
 👋 Hey, im Philippe
 -
-- 😁 I'm the creator of Apex Bot, clash-of-clans-node and brawl-stars-node.
-- 👀 I’m a coder in HTML, Javascript/node.js and Discord.js
+- 😁 I am the creator of Apex Bot, Holmcraft Bot, clash-of-clans-node.
+- 👀 I am a coder css, HTML, MYSQL, mcfunction.
 - 📫 Discord: philippesmeets
